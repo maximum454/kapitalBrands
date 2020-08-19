@@ -1,7 +1,7 @@
 Верстка страницы "История бренда" на сайте kapital.kz
 
- Главная страница
-
+ Cтраница
+ https://maximum454.github.io/kapitalBrands/build/index.html
  
  Верстка использует сборку Gulp
  
